@@ -1,0 +1,5 @@
+port:
+  3456
+mongodb:
+  host: "localhost"
+  db: "eiga_calendar"
